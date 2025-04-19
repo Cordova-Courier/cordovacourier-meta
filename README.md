@@ -9,5 +9,7 @@ To support SEO and search engine indexing for a site built on Google Sites, whic
 - `robots.txt`: Instructions for search engines on what pages to crawl or ignore, and where to find the sitemap.
 - Future files may include: `sitemap.xml`, `manifest.json`, or verification files for Google/Bing.
 
+- https://meta.cordovacourier.com/robots.txt
+
 ## 🌐 Live Access
 This file is publicly accessible at:
