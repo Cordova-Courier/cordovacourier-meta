@@ -10,6 +10,7 @@ To support SEO and search engine indexing for a site built on Google Sites, whic
 - Future files may include: `sitemap.xml`, `manifest.json`, or verification files for Google/Bing.
 
 - https://meta.cordovacourier.com/robots.txt
+- https://meta.cordovacourier.com/cordova-logo.png
 
 ## 🌐 Live Access
 This file is publicly accessible at:
