@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /private/
 Allow: /
 
-Sitemap: https://sitemap.cordovacourier.com/sitemap.xml
+Sitemap: https://sitemap.cordovacourier.com/sitemap_index.xml
