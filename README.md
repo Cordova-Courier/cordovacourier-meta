@@ -13,6 +13,7 @@ To support SEO and search engine indexing for a site built on Google Sites, whic
 - https://meta.cordovacourier.com/cordova-logo.png
 - https://meta.cordovacourier.com/New-York-Cordova-Courier.png
 - https://meta.cordovacourier.com/nyc-courier.png
+- https://meta.cordovacourier.com/cordova-logo.png
 
 ## 🌐 Live Access
 This file is publicly accessible at:
